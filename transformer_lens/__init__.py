@@ -1,4 +1,5 @@
 from . import (
+    attribution_patching,
     components,
     conversion_utils,
     evals,
